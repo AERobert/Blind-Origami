@@ -5,8 +5,7 @@ This page attempts to catalog all of the ones used on this site, note that the l
 In origami, there are two types of edges.
 
 ## The [folded edge](foldededge.md):
-<iframe src='/foldededge.html;'></iframe>
-
+<iframe src='/foldededge.html'></iframe>
 
 ## The [raw edge](rawedge.md):
-<iframe src='/rawedge.md'></iframe>
+<iframe src='/rawedge.html'></iframe>
