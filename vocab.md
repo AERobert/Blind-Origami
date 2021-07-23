@@ -8,4 +8,4 @@ In origami, there are two types of edges.
 <iframe src='/foldededge.html'></iframe>
 
 ## The [raw edge](rawedge.md):
-<iframe src='/rawedge.html'></iframe>
+<iframe src='rawedge.html'></iframe>
