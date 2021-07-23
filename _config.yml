@@ -3,3 +3,5 @@ theme: jekyll-theme-midnight
 title: null
 
 description: null
+
+include: _layouts/default.html
