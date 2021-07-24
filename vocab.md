@@ -11,3 +11,6 @@ A folded edge is an edge where two or more layers of paper are folded together. 
 
 ## The [raw edge](rawedge.md):
 A raw edge is an edge of paper that has not been folded, and is made up of a single layer of paper.
+
+
+<iframe src='https://leettyun.github.io/Blind-Origami/folds.html'></iframe>
