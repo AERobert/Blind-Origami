@@ -1,0 +1,15 @@
+# The Blintz Base
+The Blintz Base resimbles a square with four triangular flaps on top, and gets it’s name from the Blintz pancake.
+
+## folding instructions
+
+
+### 1 Fold the paper on the north/south axis. (Your paper should look like a vertical rectangle)
+#### 1.1 
+Crease and unfold the paper (Their should now be a fold line running down the center of the paper)
+
+### 2 Fold the paper along the west/east axis. (The paper should now look like a horizontal rectangle)
+#### 2.1
+Crease and unfold. (their should now be two perpendicular lines that intercect in the middle of the paper)
+
+### 3 Fold each corner into the center of the paper. (After this step, you should have a folded square with 4 triangles on top)
