@@ -13,7 +13,7 @@ All [terms](vocab.md), [folds](folds.md), [bases](bases.md), and [models](models
 To begin your journey into the world of Origami, you can start with the basic [vocabulary](vocab.md), begin to learn the various [bases](bases.md), or just jump right into one of the explained [models](models.md) referring back to the additional resources as needed. 
 
 When ever you come across a concept you need to learn or review, you can click on the concept, and you will be directed to a page containing information about the topic.
-hen, once you finished going over the info, you can click the previous page link, at the bottom of every page, to return to your learning!
+Then, once you finished going over the info, you can click the previous page link, at the bottom of every page, to return to your learning!
 
 
 ## about
