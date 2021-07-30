@@ -2,7 +2,7 @@
 
 The various folds are the building blocks of origami, they are what turns a flat sheet of paper into a intricate work of art.
 
-There are 10 different commonly used folds in origami.
+There are many different used folds in origami, this site currently only covers three of them.
 Some are probably used in almost any project, such as the [mountain](mountain.md) and [valley](valley.md) folds, while others are reserved for more complex models.
 
 
@@ -18,3 +18,11 @@ The mountain fold is the inverse of the valley fold, in deed, if you turn the pa
 When unfolded, the mountain appears to rise off the paper.
 To create this fold, you have to fold one of the edges under another edge, or, if you find this to difficult, you can just make a valley fold on the other side of the paper, since the two are inverses.
 
+
+
+## other slightly more complex folds.
+
+### The [diagonal](diagonal) fold.
+# The Diagonal fold
+The diagonal fold is a commonly used and simple fold.
+To create it, fold the paper such that one corner meats the corner on the opposite corner, for example, the top left corner meats the bottom right. (when the paper is folded along the crease, the paper will be shaped like a right triangle, and when it is unfolded, there should be a fold line running diagonally through the center of the paper. 
