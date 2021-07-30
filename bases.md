@@ -4,4 +4,4 @@ Their are a wide variety of bases some of which are meant for pacific models, su
 
 
 ## described bases
-This website contains instructions on how to fold some of the most common bases in origami, currently only two, including the [Blintz](blintz.md] and the [kite](kite.md) bases.
+This website contains instructions on how to fold some of the most common bases in origami, currently only two, including the [Blintz](blintz.md) and the [kite](kite.md) bases.
