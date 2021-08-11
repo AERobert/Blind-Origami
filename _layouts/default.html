@@ -17,23 +17,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     {% include head-custom.html %}
   </head>
-  <body onload='if(self!==top){document.getElementById('back').setAttribute('hidden');};alert('!');'>
+  <body>
       <div id="header">
-        <nav>
-          <ul>
-            <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
-            {% if site.show_downloads %}
-              <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
-              <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
-              <li class="title">DOWNLOADS</li>
-            {% endif %}
-          </ul>
-        </nav>
       </div><!-- end header -->
 
     <div class="wrapper">
 
       <section>
+        
+        <div id="navigation"> <hr>
+          <li><a href="/Blind-Origami")     Home     </a></li>
+          
+          <li><a href="/Blind-Origami/bases">     The foundation of origami  (bases)     </a></li>
+          
+          <li><a href="/Blind-Origami/folds.html">     The building blocks (folds)     </a></li>
+          
+          <li><a href="/Blind-Origami/models.md">     The products of Origami (Models)     </a></li>
+          
+          <li><a href="/Blind-Origami/vocab.html">     Vocabulary (Decypering the descriptions(     </a></li>
+          
+          </hr>
+        </div>
         
         {{ content }}
         
