@@ -14,12 +14,14 @@ The standardized rating system for origami models consists of six levels.
 - complex
 - super complex
 
-On this website, the highest rated model is high intermediate, with two models described for the below levels.
+The models covered by this website will not go above the high intermediate rating.
 
 
 ## covered models
-This website contains instructions for 7 models.
+This website currently only contains instructions for two models, though more will be added in the near future.
 
 - Simple
-  - [tessellation](tessellation.md)
   - [masu box](masubox.md)
+
+- low intermediate
+- - [Balloon](balloon.md)
