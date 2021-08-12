@@ -34,12 +34,12 @@ Unfold the blintz base into 4 vertical rectangles.
 
 
 ## step 3
-Form three walls of the box
+Finish the box
 
 ### 3.1 Lift the east and west portions of the grid to form two walls. (You should have a a shape resembling a long and short print letter u, with two 4 by 1 walls on either side, and a two by 4 base)
 
-### 3.2\
-Feel along the southern triangle, locate the two right triangles on each side, pinch these together with the east and west walls. (The box should now have 3 walls, with two triangular flaps where the walls meat)
+### 3.2
+Feel along the southern triangle, locate the two right triangles on each side, pinch these together with the east and west walls. (The box should now have 3 walls, with two triangular flaps where the walls meet)
 
-###
-3.3 repeat the previous two steps on the northern triangle. (Your masu box should now be done! with four walls and four flaps securing them)
+### 3.3
+repeat the previous two steps on the northern triangle. (Your masu box should now be done! with four walls and four flaps securing them)
