@@ -4,4 +4,4 @@ Their are a wide variety of bases some of which are meant for pacific models, su
 
 
 ## described bases
-This website contains folding instructions on some of the most common bases in origami, currently foru, including the [preliminary](preliminary.md), [water bomb](waterbomb.md), [Blintz](blintz.md) and the [kite](kite.md) bases.
+This website contains folding instructions on some of the most common bases in origami, currently four, including the [preliminary](preliminary.md), [water bomb](waterbomb.md), [Blintz](blintz.md) and the [kite](kite.md) bases.
