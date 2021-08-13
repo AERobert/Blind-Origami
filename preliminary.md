@@ -1,4 +1,4 @@
-# The. Preliminary Base
+# The Preliminary Base
 
 The preliminary base, or square base, is one of the two most commonly used origami bases, along with the [Water Bomb](waterbomb.md) base, it’s inverse.
 It gets it’s name from the fact that it is used as the base for so many models, and even other bases.
