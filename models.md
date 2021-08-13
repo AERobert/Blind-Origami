@@ -18,9 +18,10 @@ The models covered by this website will not go above the high intermediate ratin
 
 
 ## covered models
-This website currently only contains instructions for two models, though more will be added in the near future.
+This website currently only contains instructions for three models, though more will be added in the near future.
 
 - Simple
+ - [Jumping frog](jumpingfrog.md)
   - [masu box](masubox.md)
 
 - low intermediate
