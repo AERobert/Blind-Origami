@@ -1,6 +1,6 @@
 # Waterbomb Base
 
-The water bomb base, or balloon base, is one of the two most commonly used origami bases, along with the preliminary base, it’s inverse.
+The water bomb base, or balloon base, is one of the two most commonly used origami bases, along with the [preliminary](preliminary.md) base, it’s inverse.
 It gets it’s name from the [traditional origami balloon](balloon.md), which uses the water bomb as it’s base.
 
 Once folded, the water bomb base is shaped like a isosceles triangle with a central crease dividing it into to right triangles, and four triangular flaps, two on each side .
