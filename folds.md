@@ -30,7 +30,7 @@ To create it, fold the paper such that one corner meats the corner on the opposi
 
 ## Other more pacific folds
 
-[The squash fold](squash.md)
+### [The squash fold](squash.md)
 The squash fold is a pacific type of fold used on two layered triangular flaps, like the ones fond on the [preliminary](preliminary.md) and [water bomb](waterbomb.md) bases.
 It involves lifting the flap in question, separating it’s two layers with your fingers, and then pushing down the top crease of the flap so that the flap is squashed into a flat triangle, with two new flaps on each side.
 (Click on the [squash fold](squash.md) link to find a example of the squash fold in a model)
