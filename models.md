@@ -22,8 +22,8 @@ This website currently only contains instructions for three models, though more 
 
 Click on one of the following links to choose how the available models are sorted.
 
-- <a href="javascript:{document.getElementById('alp').removeAttribute('style');document.getElementById('dif').style='display:none;';';document.getElementById('type').style='display:none;';};">Alphabetize</a>
-- <a href="javascript:{document.getElementById('alp').style='display:none;';document.getElementById('dif').removeAttribute('style');';document.getElementById('type').style='display:none;';};">Sort by difficulty rating</a>
+- <a href="javascript:{document.getElementById('alp').removeAttribute('style');document.getElementById('dif').style='display:none;';document.getElementById('type').style='display:none;';};">Alphabetize</a>
+- <a href="javascript:{document.getElementById('alp').style='display:none;';document.getElementById('dif').removeAttribute('style');document.getElementById('type').style='display:none;';};">Sort by difficulty rating</a>
 - <a href="javascript:{document.getElementById('alp').style='display:none;';document.getElementById('dif').style='display:none;';document.getElementById('type').removeAttribute('style');};">Sort by type</a>
 <div id="alp"><h3>Models, alphabetized</h3><ul><li><a href="/balloon.html">Balloon</a></li><li><a href="/jumpingfrog.html">Jumping Frog</a></li><li><a href="/masubox.html">masu box</a></li></ul></div>
 <div id="dif" style="display:none;"><h3>Models, sorted by difficulty</h3><ul><li>Simple</li><li><ul><li><a href="/jumpingfrog.html">Jumping Frog</a></li><li><a href="/masubox.html">masu box</a></li></ul><ul><li>low intermediate</li><li><a href="/balloon.html">Balloon</a></li></ul></li></ul></div>
