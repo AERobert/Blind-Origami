@@ -26,7 +26,7 @@ Click on one of the following links to choose how the available models are sorte
 - <a>Sort by type</a>
 - - <a>Alphabetize</a>
 
-</div id="dif">
+<div id="dif">
 ### Models, sorted by difficulty
 - Simple
  - [Jumping frog](jumpingfrog.md)
