@@ -27,7 +27,7 @@ Click on one of the following links to choose how the available models are sorte
 - <a>Alphabetize</a>
 
 <div id="dif">
-### Models, sorted by difficulty
+ <h3>Models, sorted by difficulty</h3>
 - Simple
  - [Jumping frog](jumpingfrog.md)
   - [masu box](masubox.md)
