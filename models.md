@@ -27,3 +27,4 @@ Click on one of the following links to choose how the available models are sorte
 - <a>Alphabetize</a>
 
 <div id="dif"><h3>Models, sorted by difficulty</h3><ul><li>Simple</li><li><ul><li><a href="jumpingfrog.html">Jumping Frog</a></li><li><a href="masubox.html">masu box</a></li></ul><ul><li>low intermediate</li><li><a href="/balloon.html">Balloon</a>
+<div id="type'><ul><li><a href="jumpingfrog.html">Jumping Frog</a></li><li><a href="masubox.html">masu box</a></li><li><a href="/balloon.html">Balloon</a>
