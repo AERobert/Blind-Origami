@@ -20,9 +20,18 @@ The models covered by this website will not go above the high intermediate ratin
 ## covered models
 This website currently only contains instructions for three models, though more will be added in the near future.
 
+Click on one of the following links to choose how the available models are sorted.
+
+<a>Sort by difficulty rating</a>
+- <a>Sort by type</a>
+- - <a>Alphabetize</a>
+
+</div id="dif">
+### Models, sorted by difficulty
 - Simple
  - [Jumping frog](jumpingfrog.md)
   - [masu box](masubox.md)
 
 - low intermediate
 - - [Balloon](balloon.md)
+</div>
