@@ -22,7 +22,7 @@ This website currently only contains instructions for three models, though more 
 
 Click on one of the following links to choose how the available models are sorted.
 
-- <a onclick="function(){document.getElementById('dif').style='display:none';}">Sort by difficulty rating</a>
+- <a href="javascript:void0" onclick="function(){document.getElementById('dif').style='display:none';}">Sort by difficulty rating</a>
 - <a>Sort by type</a>
 - <a>Alphabetize</a>
 
