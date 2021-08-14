@@ -22,7 +22,7 @@ This website currently only contains instructions for three models, though more 
 
 Click on one of the following links to choose how the available models are sorted.
 
-- <ahref="javascript:{document.getElementById('alp').removeAttribute('style');document.getElementById('dif').style='display:none;';};">Alphabetize</a>
+- <a href="javascript:{document.getElementById('alp').removeAttribute('style');document.getElementById('dif').style='display:none;';};">Alphabetize</a>
 - <a href="javascript:{document.getElementById('alp').style='display:none;';document.getElementById('dif').removeAttribute('style');};">Sort by difficulty rating</a>
 - <a>Sort by type</a>
 <div id="alp"><ul><li><a href="jumpingfrog.html">Jumping Frog</a></li><li><a href="masubox.html">masu box</a></li><li><a href="/balloon.html">Balloon</a></li></ul></div>
