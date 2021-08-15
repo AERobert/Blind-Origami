@@ -1,4 +1,4 @@
-# The squash fold
+# The Squash Fold
 The squash fold is a pacific type of fold used on two layered triangular flaps, like the ones fond on the [preliminary](preliminary.md) and [water bomb](waterbomb.md) bases.
 It involves lifting the flap in question, separating it’s two layers with your fingers, and then pushing down the top crease of the flap so that the flap is squashed into a flat triangle, with two new flaps on each side.
 
