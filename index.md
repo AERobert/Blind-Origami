@@ -8,7 +8,7 @@ This tutorial site is targeted towards visually impaired origami beginners, thou
 All [terms](vocab.md), [folds](folds.md), [bases](bases.md), and [models](models.md) will be described using only text, and will provide links to information about the various concepts when they are mentioned.
 
 
-## navigating the site
+## Navigating The Site
 
 To begin your journey into the world of Origami, you can start with the basic [vocabulary](vocab.md), begin to learn the various [bases](bases.md), or just jump right into one of the explained [models](models.md) referring back to the additional resources as needed. 
 
@@ -16,7 +16,7 @@ When ever you come across a concept you need to learn or review, you can click o
 Then, once you finished going over the info, you can click the previous page link, at the bottom of every page, to return to your learning!
 
 
-## about
+## About
 
 This website was created by Robert Eggleston, using [Github Pages](https://pages.github.com/), at the end of July 2021 as his final project for [the NFB EQ program.](https://nfb.org/programs-services/national-center-blind-youth-science/nfb-eq)
 
