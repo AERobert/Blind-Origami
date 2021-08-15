@@ -6,7 +6,7 @@ It gets it’s name from the fact that it is used as the base for so many models
 Once folded, the preliminary base is shaped like a square with a central crease dividing it into to triangular sections, each composed of two triangular flaps.
 
 
-## Folding instructions
+## Folding Instructions
 
 ### Step 1
 create the crease pattern
