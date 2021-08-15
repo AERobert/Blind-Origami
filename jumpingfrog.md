@@ -1,6 +1,6 @@
-# The origami jumping frog
+# The oOrigami Jumping Frog
 
-## Folding instructions
+## Folding Instructions
 
 ### Step 1
 Make a folded square
