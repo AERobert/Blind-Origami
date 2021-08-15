@@ -1,6 +1,6 @@
-# The origami balloon
+# The Origami Balloon
 
-## instructions
+## Instructions
 
 ### Step 1
 Fold a [water bomb](waterbomb.md) base. (Click on the link for instructions)
