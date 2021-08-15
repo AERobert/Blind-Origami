@@ -1,4 +1,4 @@
-# Instructions to make a Masu box
+# The Masu Box
 
 ## step 1
 Create a [Blintz Base](blintz.md)
